@@ -1,0 +1,6 @@
+[My Computer]
+My Computer = "10.1.0.41"
+
+[Target]
+Target = "roboRIO-6518-FRC.local"
+
